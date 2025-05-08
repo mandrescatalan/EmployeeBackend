@@ -19,7 +19,7 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
 Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/EmployeeBackend.git
+git clone https://github.com/mandrescatalan/EmployeeBackend.git
 ```
 
 ### 2. Instalar dependencias
