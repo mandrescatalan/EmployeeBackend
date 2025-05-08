@@ -89,6 +89,6 @@ Esta estructura asegura una separación clara de responsabilidades, facilitando 
 
 ## Licencia
 
-1. *Nombre del Proyecto:* EmployeeBackend
-2. *Descripción:* API para la gestión de empleados.
+1. *Nombre del Proyecto:* EmployeeBackend.
+2. *Descripción:* ANALISTA DE DESARROLLO DE SOFTWARE.
 3. *Créditos:* Michael Andres Catalan Gaviria.
