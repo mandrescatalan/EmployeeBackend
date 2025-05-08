@@ -1,0 +1,11 @@
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\bin\Debug\net8.0\EmployeeBackend.Domain.deps.json
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\bin\Debug\net8.0\EmployeeBackend.Domain.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\bin\Debug\net8.0\EmployeeBackend.Domain.pdb
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.AssemblyInfo.cs
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\refint\EmployeeBackend.Domain.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\EmployeeBackend.Domain.pdb
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Domain\obj\Debug\net8.0\ref\EmployeeBackend.Domain.dll

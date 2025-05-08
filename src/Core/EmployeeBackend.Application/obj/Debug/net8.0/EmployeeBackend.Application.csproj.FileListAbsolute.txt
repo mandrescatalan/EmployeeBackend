@@ -1,0 +1,15 @@
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\bin\Debug\net8.0\EmployeeBackend.Application.deps.json
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\bin\Debug\net8.0\EmployeeBackend.Application.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\bin\Debug\net8.0\EmployeeBackend.Application.pdb
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\bin\Debug\net8.0\EmployeeBackend.Domain.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\bin\Debug\net8.0\EmployeeBackend.Domain.pdb
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.csproj.AssemblyReference.cache
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.AssemblyInfoInputs.cache
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.AssemblyInfo.cs
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\Employee.14E5D585.Up2Date
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\refint\EmployeeBackend.Application.dll
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\EmployeeBackend.Application.pdb
+C:\Users\michael\source\repos\EmployeeBackend\src\Core\EmployeeBackend.Application\obj\Debug\net8.0\ref\EmployeeBackend.Application.dll
